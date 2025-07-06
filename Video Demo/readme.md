@@ -1,1 +1,1 @@
-Demonstration of project using screenshots
+Video Demonstration of project and screenshots
